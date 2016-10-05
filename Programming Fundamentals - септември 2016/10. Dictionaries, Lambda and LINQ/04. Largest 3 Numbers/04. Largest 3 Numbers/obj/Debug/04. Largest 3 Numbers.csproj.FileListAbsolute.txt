@@ -1,1 +1,5 @@
 G:\Git\SoftUni\Programming Fundamentals - септември 2016\10. Dictionaries, Lambda and LINQ\04. Largest 3 Numbers\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe.config
+G:\Git\SoftUni\Programming Fundamentals - септември 2016\10. Dictionaries, Lambda and LINQ\04. Largest 3 Numbers\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe
+G:\Git\SoftUni\Programming Fundamentals - септември 2016\10. Dictionaries, Lambda and LINQ\04. Largest 3 Numbers\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.pdb
+G:\Git\SoftUni\Programming Fundamentals - септември 2016\10. Dictionaries, Lambda and LINQ\04. Largest 3 Numbers\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.exe
+G:\Git\SoftUni\Programming Fundamentals - септември 2016\10. Dictionaries, Lambda and LINQ\04. Largest 3 Numbers\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.pdb
