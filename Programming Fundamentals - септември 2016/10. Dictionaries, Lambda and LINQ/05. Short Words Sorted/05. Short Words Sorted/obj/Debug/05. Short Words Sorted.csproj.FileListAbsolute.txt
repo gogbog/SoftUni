@@ -1,0 +1,1 @@
+G:\Git\SoftUni\Programming Fundamentals - септември 2016\10. Dictionaries, Lambda and LINQ\05. Short Words Sorted\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe.config

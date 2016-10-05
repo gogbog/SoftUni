@@ -1,0 +1,1 @@
+G:\Git\SoftUni\Programming Fundamentals - септември 2016\10. Dictionaries, Lambda and LINQ\03. Min, Max, Sum, Average\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe.config

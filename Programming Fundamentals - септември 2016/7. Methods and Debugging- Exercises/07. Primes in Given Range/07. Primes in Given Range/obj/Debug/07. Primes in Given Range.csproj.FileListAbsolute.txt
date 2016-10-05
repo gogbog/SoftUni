@@ -1,0 +1,1 @@
+G:\Git\SoftUni\Programming Fundamentals - септември 2016\7. Methods and Debugging- Exercises\07. Primes in Given Range\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.exe.config

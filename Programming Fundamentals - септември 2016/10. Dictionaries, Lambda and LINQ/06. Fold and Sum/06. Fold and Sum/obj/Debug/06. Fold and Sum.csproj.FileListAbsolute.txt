@@ -1,0 +1,1 @@
+G:\Git\SoftUni\Programming Fundamentals - септември 2016\10. Dictionaries, Lambda and LINQ\06. Fold and Sum\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe.config
