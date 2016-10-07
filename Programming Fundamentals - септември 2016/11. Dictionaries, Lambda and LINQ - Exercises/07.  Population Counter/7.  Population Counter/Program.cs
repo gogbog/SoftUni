@@ -11,8 +11,8 @@ namespace _7.Population_Counter
         static void Main(string[] args)
         {
             var countries = new Dictionary<string, List<string>>();
-            var cityData = new Dictionary<string, int>();
-            var countryTotalPopulation = new Dictionary<string, int>();
+            var cityData = new Dictionary<string, long>();
+            var countryTotalPopulation = new Dictionary<string, long>();
 
             while (true)
             {
@@ -53,7 +53,7 @@ namespace _7.Population_Counter
             }
 
             var countryTotalPopList = countryTotalPopulation.OrderByDescending(key => key.Value).ToList();
-            var cityDataList = cityData.OrderByDescending(key => key.Value).ToList();
+            
 
 
 
@@ -64,6 +64,7 @@ namespace _7.Population_Counter
                 var countryPopulation = item.Value;
 
                 Console.WriteLine($"{country} (total population: {countryPopulation})");
+                var cityDataList = cityData.OrderByDescending(key => key.Value).ToList();
 
                 foreach (var allCitiesCity in cityDataList)
                 {
