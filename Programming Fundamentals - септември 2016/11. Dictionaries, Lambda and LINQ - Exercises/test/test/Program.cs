@@ -10,40 +10,31 @@ namespace _03.A_Miner_Task
     {
         static void Main(string[] args)
         {
-            Dictionary<string, int> myDict = new Dictionary<string, int>();
 
-            string resource = "";
-            int quantity = 0;
+            List<string> test = myMethod();
 
-            for (int i = 1; ; i++)
+
+            foreach (var item in test)
             {
-                if (i % 2 != 0)
-                {
-                    resource = Console.ReadLine();
-
-                }
-                if (i % 2 == 0)
-                {
-                    quantity = int.Parse(Console.ReadLine());
-                }
-                if (resource.Equals("stop"))
-                {
-                    break;
-                }
-                
-
-                if (!myDict.ContainsKey(resource))
-                {
-                    myDict.Add(resource, 0);
-                }
-
-                myDict[resource] += quantity;
+                Console.WriteLine(item);
             }
 
-            foreach (var item in myDict)
+        }
+
+        static List<string> myMethod()
+        {
+            List<string> addingtoList = new List<string>();
+            string input = Console.ReadLine();
+
+            while (!input.Equals("End"))
             {
-                Console.WriteLine("{0} -> {1}", item.Key, item.Value);
+                addingtoList.Add(input);
+                input = Console.ReadLine();
             }
+
+            return addingtoList;
         }
     }
+
+
 }

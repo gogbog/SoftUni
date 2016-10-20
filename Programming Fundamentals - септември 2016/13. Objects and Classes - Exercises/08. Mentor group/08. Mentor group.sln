@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Mentor group", "08. Mentor group\08. Mentor group.csproj", "{794A46B8-D0F9-4948-BA57-CCAEA19C1CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794A46B8-D0F9-4948-BA57-CCAEA19C1CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794A46B8-D0F9-4948-BA57-CCAEA19C1CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794A46B8-D0F9-4948-BA57-CCAEA19C1CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794A46B8-D0F9-4948-BA57-CCAEA19C1CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
